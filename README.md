@@ -69,6 +69,8 @@ The structured, formal framework for reproducible behavioural evaluation.
 Licence  
 Defines usage and redistribution rights for this edition.
 
+This repository uses a custom proprietary licence, not MIT or any standard open‑source licence.
+
 How to Use INQUISITOR
 Run the Quick Start to get a behavioural snapshot.
 
